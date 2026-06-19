@@ -8,9 +8,11 @@
   "option": {
     "1": {
       "label": "Accept",
+      "labelDisabled": "Maybe with more Pokemon...",
+      "tooltipDisabled": "You need at least two healthy Pokemon to risk the deal.",
       "tooltip": "(+) 5 Rogue Balls\n(?) Enhance a Random Pokémon",
-      "selectedDialogue": "Let’s see, that {{pokeName}} will do nicely!$Remember, I’m not responsible\nif anything bad happens!@d{32} Hehe…",
-      "selectedMessage": "The man hands you 5 Rogue Balls.${{pokeName}} hops into the strange machine…$Flashing lights and weird noises\nstart coming from the machine!$…@d{96} Something emerges\nfrom the device, raging wildly!"
+      "selectedDialogue": "Let's see who's willing to take the deal!$Remember, I'm not responsible\nif anything bad happens!@d{32} Hehe…",
+      "selectedMessage": "The man readies 5 Rogue Balls\nand powers up the strange machine…$Flashing lights and weird noises\nstart coming from the machine!$…@d{96} Something emerges\nfrom the device, raging wildly!"
     },
     "2": {
       "label": "Refuse",

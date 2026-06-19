@@ -8,7 +8,9 @@
   "option": {
     "1": {
       "label": "Accept the Deal",
+      "labelDisabled": "Maybe with more Pokemon...",
       "tooltip": "(-) Lose {{strongestPokemon}}\n(+) Gain a@[TOOLTIP_TITLE]{ {{itemName}}}\n(+) Gain {{price, money}}",
+      "tooltipDisabled": "You need at least two valid Pokemon before you can sell one.",
       "selected": "Wonderful!@d{32} Come along, {{strongestPokemon}}!$It’s time to show you off to everyone at the yacht club!$They’ll be so jealous!"
     },
     "2": {

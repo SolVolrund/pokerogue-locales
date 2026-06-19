@@ -1,0 +1,22 @@
+{
+  "intro": "A Global Trade System terminal is humming loudly.",
+  "speaker": "Scientist",
+  "introDialogue": "Hey! Are you tired of the same old same old?$I have an experimental upgrade for the GTS, wanna give it a try?",
+  "title": "GTS Malfunction",
+  "description": "A Scientist is testing an experimental GTS upgrade. It definitely sounds safe. Probably.",
+  "query": "Try the experimental GTS upgrade?",
+  "option": {
+    "1": {
+      "label": "Sure!",
+      "tooltip": "Shuffle Pokemon between both players, then battle the displaced trades",
+      "selected": "You both agree to try the experimental upgrade."
+    },
+    "2": {
+      "label": "No Thanks",
+      "tooltip": "Leave the GTS alone",
+      "selected": "No thanks, that sounds sketchy.\nThe Scientist sighs and starts unplugging cables."
+    }
+  },
+  "tradeStart": "The Scientist flips a switch.$The GTS terminal crackles as both teams are pulled into an unexpected trade queue!",
+  "battleStart": "Oh no! I think I must have disconnected a lot of active trades!$A group of very angry Pokemon come tumbling out of the GTS!"
+}

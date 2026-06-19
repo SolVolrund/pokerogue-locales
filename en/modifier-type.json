@@ -143,6 +143,10 @@
     "TERA_ORB": { "name": "Tera Orb", "description": "Allows your Pokémon to Terastallize. Recharges slowly. Tera Shards also become available." },
 
     "MAP": { "name": "Map", "description": "Allows you to choose your destination at a crossroads." },
+    "LINKING_CORD_GOLD": {
+      "name": "Linking Cord Gold",
+      "description": "Allows players to trade Pokemon with each other from the rewards screen."
+    },
 
     "POTION": { "name": "Potion" },
     "SUPER_POTION": { "name": "Super Potion" },
@@ -245,6 +249,7 @@
     "BATON": { "name": "Baton", "description": "Allows passing along effects when switching Pokémon, which also bypasses traps." },
 
     "SHINY_CHARM": { "name": "Shiny Charm", "description": "Dramatically increases the chance of a wild Pokémon being Shiny." },
+    "SHINY_BADGE": { "name": "Shiny Badge", "description": "The holder appears as one of its Shiny variants without adding it to the Pokédex." },
     "ABILITY_CHARM": { "name": "Ability Charm", "description": "Dramatically increases the chance of a wild Pokémon having a Hidden Ability." },
     "CATCHING_CHARM": { "name": "Catching Charm", "description": "Increases the chance of getting a critical catch."},
 

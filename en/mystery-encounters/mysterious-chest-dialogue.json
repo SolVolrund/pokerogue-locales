@@ -1,18 +1,27 @@
 {
-  "intro": "You found…@d{32} a chest?",
+  "intro": "You found...@d{32} a chest?",
   "title": "The Mysterious Chest",
-  "description": "A beautifully ornamented chest stands on the ground. There must be something good inside… right?",
+  "description": "A beautifully ornamented chest stands on the ground. There must be something good inside... right?",
   "query": "Will you open it?",
   "option": {
     "1": {
       "label": "Open It",
+      "labelDisabled": "Maybe if you had more Pokemon, but...",
       "tooltip": "@[SUMMARY_BLUE]{({{trapPercent}}%) Something terrible}\n@[SUMMARY_GREEN]{({{commonPercent}}%) Okay Rewards}\n@[SUMMARY_GREEN]{({{ultraPercent}}%) Good Rewards}\n@[SUMMARY_GREEN]{({{roguePercent}}%) Great Rewards}\n@[SUMMARY_GREEN]{({{masterPercent}}%) Amazing Rewards}",
-      "selected": "You open the chest to find…",
+      "tooltipDisabled": "You need at least two healthy Pokemon to risk opening the chest.",
+      "selected": "You open the chest to find...",
+      "selectedPlural": "You open the chests to find...",
+      "openBothPrompt": "Well, no sense leaving loot behind... right?",
       "normal": "Just some normal tools and items.",
       "good": "Some pretty nice tools and items.",
       "great": "A couple great tools and items!",
       "amazing": "Whoa! An amazing item!",
-      "bad": "Oh no!@d{32}\nThe chest was actually a {{gimmighoulName}} in disguise!$Your {{pokeName}} jumps in front of you\nbut is KOed in the process!"
+      "otherNormal": "And the other chest has some normal tools and items.",
+      "otherGood": "And the other chest has some pretty nice tools and items.",
+      "otherGreat": "And the other chest has a couple great tools and items!",
+      "otherAmazing": "Whoa! And an amazing item in the other chest!",
+      "bad": "Oh no!@d{32}\nThe chest was actually a {{gimmighoulName}} in disguise!$Your {{pokeName}} jumps in front of you\nbut is KOed in the process!",
+      "badOther": "Oh no!@d{32}\nAnd the other chest was actually a {{gimmighoulName}} in disguise!$Your {{pokeName}} jumps in front of you\nbut is KOed in the process!"
     },
     "2": {
       "label": "Too Risky, Leave",

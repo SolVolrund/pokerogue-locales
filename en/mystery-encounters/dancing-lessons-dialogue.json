@@ -1,7 +1,9 @@
 {
   "intro": "An {{oricorioName}} dances sadly alone, without a partner.",
+  "intro2p": "Two {{oricorioName}} dance sadly together, still searching for partners.",
   "title": "Dancing Lessons",
   "description": "The {{oricorioName}} doesn’t seem aggressive, if anything it seems despondent.\n\nPerhaps it just wants someone to dance with…",
+  "description2p": "The {{oricorioName}} don't seem aggressive; if anything, they seem despondent.\n\nPerhaps they just want someone to dance with...",
   "query": "What will you do?",
   "option": {
     "1": {

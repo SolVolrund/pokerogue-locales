@@ -1,0 +1,27 @@
+{
+  "intro": "You spot something sparkling in the grass.$It almost looks like a badge, or a more ornate Shiny Charm...$Whatever it is, it would look lovely pinned on your favorite Pokémon!",
+  "title": "Shiny Badge",
+  "description": "A delicate badge glitters where the light catches it. There is only one, and both of you can tell it is special.",
+  "query": "Who should take it?",
+  "option": {
+    "1": {
+      "label": "I must have it!",
+      "tooltip": "(+) Shiny Badge\n(?) May start a duel",
+      "selected": "You reach for the badge."
+    },
+    "2": {
+      "label": "It's okay, you can have it",
+      "tooltip": "(?) Let your friend take the badge",
+      "selected": "You step back from the badge."
+    }
+  },
+  "duel": {
+    "start": "Both of you reach for it at once.$For a moment, neither of you lets go..."
+  },
+  "outro": {
+    "awarded": "The badge gleams as it is pinned in place.$Glancing at your friend though, you can't help but wonder if it was worth it.",
+    "tiebreak": "After a very polite argument, the badge finally finds a home.",
+    "duel": "The battle settles the matter, and the badge gleams in the winner's hand.",
+    "heal": "You bring your friend to the Pokémon Center and get their Pokémon checked up."
+  }
+}
