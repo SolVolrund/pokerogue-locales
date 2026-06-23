@@ -1,0 +1,28 @@
+{
+  "intro": "A small group of trainers crosses your path.",
+  "title": "It Is Dangerous to Go Alone",
+  "description": "The road ahead looks rough, but one of these trainers offers to travel with you for a while.",
+  "query": "Who will join you?",
+  "option": {
+    "1": {
+      "label": "{{partner1}}",
+      "tooltip": "(+) {{partner1}} joins as a computer partner",
+      "selected": "{{partner1}} joins you!"
+    },
+    "2": {
+      "label": "{{partner2}}",
+      "tooltip": "(+) {{partner2}} joins as a computer partner",
+      "selected": "{{partner2}} joins you!"
+    },
+    "3": {
+      "label": "{{partner3}}",
+      "tooltip": "(+) {{partner3}} joins as a computer partner",
+      "selected": "{{partner3}} joins you!"
+    },
+    "4": {
+      "label": "I prefer to go it alone",
+      "tooltip": "(-) No partner",
+      "selected": "You decide to continue alone."
+    }
+  }
+}

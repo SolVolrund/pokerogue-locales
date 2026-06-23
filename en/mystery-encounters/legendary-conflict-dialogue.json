@@ -1,0 +1,27 @@
+{
+  "intro": "It seems {{pokemon1}} and {{pokemon2}} are causing trouble! It might resolve itself more quickly if you help one or the other.",
+  "title": "Legendary Conflict",
+  "description": "{{pokemon1}} and {{pokemon2}} are locked in battle. The one you help must survive if you want its blessing.",
+  "query": "Which legendary will you help?",
+  "option": {
+    "1": {
+      "label": "Help {{pokemon1}}",
+      "tooltip": "(+) Earn a permanent {{blessing1}} blessing if {{pokemon1}} survives",
+      "selected": "You move to help {{pokemon1}}!"
+    },
+    "2": {
+      "label": "Help {{pokemon2}}",
+      "tooltip": "(+) Earn a permanent {{blessing2}} blessing if {{pokemon2}} survives",
+      "selected": "You move to help {{pokemon2}}!"
+    },
+    "3": {
+      "label": "Not my problem!",
+      "tooltip": "Leave without getting involved",
+      "selected": "You leave the conflict to resolve itself."
+    }
+  },
+  "outro": {
+    "success": "The surviving legendary acknowledges your help. Its {{blessing}} blessing will follow you.",
+    "failed": "The conflict ends, but the legendary you chose to help could not stay standing."
+  }
+}
