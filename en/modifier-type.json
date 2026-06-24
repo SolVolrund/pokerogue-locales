@@ -258,6 +258,10 @@
     "DNA_SPLICERS": { "name": "DNA Splicers" },
 
     "MINI_BLACK_HOLE": { "name": "Mini Black Hole" },
+    "GAMMA_RAY_BURST": {
+      "name": "Gamma Ray Burst",
+      "description": "Ultra Necrozma gains one of each vitamin when this item appears, then rolls for more vitamins at the end of each turn based on the living player-side Pokemon."
+    },
 
     "GOLDEN_POKEBALL": { "name": "Golden Poké Ball", "description": "Adds 1 extra item option at the end of every battle." },
 
