@@ -1,0 +1,18 @@
+{
+  "intro": "Hidden beneath the island's overgrowth, you find a weathered treasure chest.",
+  "title": "Faraway Island Treasure",
+  "description": "A forgotten chest rests where few people have ever set foot. Whatever is inside feels worth the journey.",
+  "query": "Open the chest?",
+  "option": {
+    "1": {
+      "label": "Open It",
+      "tooltip": "@[SUMMARY_GREEN]{(100%) Master Reward}",
+      "selected": "The chest opens with a soft click.$Inside is something extraordinary."
+    },
+    "2": {
+      "label": "Leave It",
+      "tooltip": "(-) No Reward",
+      "selected": "You leave the chest behind and continue across the island."
+    }
+  }
+}
