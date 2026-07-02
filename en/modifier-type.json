@@ -143,6 +143,9 @@
     "TERA_ORB": { "name": "Tera Orb", "description": "Allows your Pokémon to Terastallize. Recharges slowly. Tera Shards also become available." },
 
     "MAP": { "name": "Map", "description": "Allows you to choose your destination at a crossroads." },
+
+    "OLD_SEA_MAP": { "name": "Old Sea Map", "description": "A faded old hand drawn map. Surprisingly accurate, save for one extra location in the ocean." },
+
     "LINKING_CORD_GOLD": {
       "name": "Linking Cord Gold",
       "description": "Allows players to trade Pokemon with each other from the rewards screen."
