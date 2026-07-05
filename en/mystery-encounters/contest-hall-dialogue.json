@@ -16,5 +16,19 @@
       "selected": "You decide to skip the Contest for now."
     }
   },
+  "contestTypeVote": {
+    "query": "Contest category?",
+    "tooltip": "Vote for a {{contestType}} Contest",
+    "selected": "{{playerName}} votes for {{contestType}}.",
+    "tieBreak": "{{playerName}}'s vote wins the tie.",
+    "winner": "The {{contestType}} Contest is locked in!"
+  },
+  "pokemonSelect": {
+    "prompt": "{{playerName}}, choose a Pokemon for the Contest.",
+    "invalid": "{{pokemonName}} cannot enter right now.",
+    "required": "Please choose a Pokemon to enter.",
+    "none": "{{playerName}} has no Pokemon able to enter right now.",
+    "selected": "{{playerName}} enters {{pokemonName}}."
+  },
   "outro": "Thank you for visiting the Contest Hall!"
 }
