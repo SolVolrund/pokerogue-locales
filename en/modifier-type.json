@@ -46,6 +46,10 @@
       "name": "{{natureName}} Mint",
       "description": "Changes a Pokémon’s nature to {{natureName}} and permanently unlocks the nature for the starter."
     },
+    "PokeblockModifierType": {
+      "description": "Raises one Pokemon's {{condition}} condition by {{amount}}.",
+      "descriptionAll": "Raises all of one Pokemon's contest conditions by {{amount}}."
+    },
     "DoubleBattleChanceBoosterModifierType": {
       "description": "Quadruples the chance of an encounter being a double battle for up to {{battleCount}} battles."
     },
@@ -178,6 +182,20 @@
 
     "PP_UP": { "name": "PP Up" },
     "PP_MAX": { "name": "PP Max" },
+
+    "POKEBLOCK_KIT": { "name": "Pokeblock Kit", "description": "Adds a 15% chance per stack for one Pokeblock to appear in reward choices. Stacks up to 5." },
+    "POKEBLOCK_RED": { "name": "Red Pokeblock" },
+    "POKEBLOCK_BLUE": { "name": "Blue Pokeblock" },
+    "POKEBLOCK_GREEN": { "name": "Green Pokeblock" },
+    "POKEBLOCK_YELLOW": { "name": "Yellow Pokeblock" },
+    "POKEBLOCK_PINK": { "name": "Pink Pokeblock" },
+    "POKEBLOCK_RED_PLUS": { "name": "Red Pokeblock+" },
+    "POKEBLOCK_BLUE_PLUS": { "name": "Blue Pokeblock+" },
+    "POKEBLOCK_GREEN_PLUS": { "name": "Green Pokeblock+" },
+    "POKEBLOCK_YELLOW_PLUS": { "name": "Yellow Pokeblock+" },
+    "POKEBLOCK_PINK_PLUS": { "name": "Pink Pokeblock+" },
+    "POKEBLOCK_RAINBOW": { "name": "Rainbow Pokeblock" },
+    "POKEBLOCK_RAINBOW_PLUS": { "name": "Rainbow Pokeblock+" },
 
     "LURE": { "name": "Lure" },
     "SUPER_LURE": { "name": "Super Lure" },
