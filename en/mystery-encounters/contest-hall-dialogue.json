@@ -2,19 +2,25 @@
   "speaker": "Contest Receptionist",
   "introDialogue": "Welcome to the Contest Hall!$Trainers from all over are gathering to show off their Pokemon's appeal.",
   "title": "Contest Hall",
-  "description": "A Pokemon Contest is about to begin. Entering will temporarily leave regular battles behind and start a Contest showcase.",
+  "description": "A Pokemon Contest is about to begin. Compete against other Coordinators for the grand prize and a shot at the Grand Festival.",
   "query": "Would you like to enter the Contest?",
   "option": {
     "1": {
       "label": "Enter Contest",
       "tooltip": "(+) Start a Pokemon Contest",
-      "selected": "Wonderful! Please make your way backstage."
+      "selected": "Wonderful! Please make your way backstage and get your pokemon ready."
     },
     "2": {
       "label": "Leave",
       "tooltip": "Continue your journey",
       "selected": "You decide to skip the Contest for now."
     }
+  },
+  "participationVote": {
+    "query": "Enter the Contest?",
+    "enterSelected": "{{playerName}} wants to enter the Contest.",
+    "leaveSelected": "{{playerName}} would rather move on.",
+    "tieBreak": "{{playerName}}'s choice wins the tie."
   },
   "contestTypeVote": {
     "query": "Contest category?",
