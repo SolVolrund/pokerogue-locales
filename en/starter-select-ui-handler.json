@@ -21,6 +21,8 @@
   "toggleIVs": "Toggle IVs",
   "toggleConditions": "Toggle Conditions",
   "manageMoves": "Manage Moves",
+  "contestMoveInfo": "Contest",
+  "battleMoveInfo": "Battle",
   "manageNature": "Manage Nature",
   "addToFavorites": "Add to Favorites",
   "removeFromFavorites": "Remove from Favorites",
