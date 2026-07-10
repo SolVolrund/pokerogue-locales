@@ -258,6 +258,7 @@
     "FLAME_ORB": { "name": "Flame Orb", "description": "It’s a bizarre orb that gives off heat when touched and will affect the holder with a burn during battle." },
 
     "MYSTICAL_ROCK": { "name": "Mystical Rock", "description": "Extends the duration of terrain and weather caused by the holder’s moves or Abilities by 2 turns." },
+    "LIGHT_CLAY": { "name": "Light Clay", "description": "Extends the duration of Light Screen, Reflect, and Aurora Veil caused by the holder's moves by 2 turns." },
 
     "EVOLUTION_TRACKER_GIMMIGHOUL": { "name": "Treasures", "description": "This Pokémon loves treasure! Keep collecting treasure and something might happen!"},
     "EVOLUTION_TRACKER_PRIMEAPE": {
