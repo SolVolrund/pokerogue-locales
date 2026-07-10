@@ -237,6 +237,7 @@
 
     "GRIP_CLAW": { "name": "Grip Claw" },
     "WIDE_LENS": { "name": "Wide Lens" },
+    "LOADED_DICE": { "name": "Loaded Dice", "description": "Makes moves that normally hit 2 to 5 times hit at least 4 times." },
 
     "MULTI_LENS": { "name": "Multi Lens" },
 
@@ -259,6 +260,7 @@
 
     "MYSTICAL_ROCK": { "name": "Mystical Rock", "description": "Extends the duration of terrain and weather caused by the holder’s moves or Abilities by 2 turns." },
     "LIGHT_CLAY": { "name": "Light Clay", "description": "Extends the duration of Light Screen, Reflect, and Aurora Veil caused by the holder's moves by 2 turns." },
+    "MIRROR_HERB": { "name": "Mirror Herb", "description": "Copies an opponent's stat increases once, then is consumed." },
 
     "EVOLUTION_TRACKER_GIMMIGHOUL": { "name": "Treasures", "description": "This Pokémon loves treasure! Keep collecting treasure and something might happen!"},
     "EVOLUTION_TRACKER_PRIMEAPE": {
