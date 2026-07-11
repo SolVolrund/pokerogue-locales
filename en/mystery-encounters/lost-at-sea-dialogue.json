@@ -22,6 +22,15 @@
       "label": "Wander Aimlessly",
       "tooltip": "(-) Each of your Pokémon lose {{damagePercentage}}% of their total HP",
       "selected": "You float about in the boat, steering without direction until you finally spot a landmark you remember.$You and your Pokémon are fatigued from the whole ordeal."
+    },
+    "4": {
+      "label": "Let {{option4PrimaryName}} Swim",
+      "labelDisabled": "No Totodile",
+      "tooltip": "(?) {{option4PrimaryName}} may find a strange current\n(+) {{option4PrimaryName}} gains some EXP",
+      "tooltipDisabled": "You need Totodile, Croconaw, or Feraligatr in fighting shape",
+      "selected": "{{option4PrimaryName}} leaps into the water with a delighted bark and grabs the rope in its jaws.$For a while, this seems like a fantastic idea.$Then the boat begins moving faster. Then much faster.$By the time you manage to get {{option4PrimaryName}}'s attention, the familiar coastline is long gone.$You drift through narrow canals, under stone bridges, and into a sunlit city built over the water.${{option4PrimaryName}} looks extremely proud of itself.",
+      "rejected": "{{option4PrimaryName}} paddles toward a strange current, but the group cannot agree on following it.$The boat drifts aimlessly until you finally spot a familiar landmark.",
+      "tieBreak": "{{tieBreakPlayerName}}'s call wins this time."
     }
   },
   "outro": "You are back on track."
