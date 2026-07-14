@@ -22,6 +22,7 @@
   "always": "Always",
   "ask": "Ask",
   "battleStyle": "Battle Style",
+  "plannerAiEnable": "Planner AI Enable",
   "enableRetries": "Enable Retries",
   "hideIvs": "Hide IV scanner",
   "hideMoveSkipConfirm": "Level Move Confirmation",
