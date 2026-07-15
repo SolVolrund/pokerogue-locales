@@ -1,0 +1,22 @@
+{
+  "intro": "You spot {{poachers}} attacking {{legendaryPokemon}}! The legendary Pokemon is trying to fight back, but it is badly outnumbered.",
+  "title": "Poke Poachers",
+  "description": "poachers have cornered {{legendaryPokemon}}. Defeat the poachers before the legendary Pokemon falls.",
+  "query": "Will you help {{legendaryPokemon}}?",
+  "option": {
+    "1": {
+      "label": "Intervene",
+      "tooltip": "(+) Fight the poachers and earn a reward if {{legendaryPokemon}} survives",
+      "selected": "You rush in to protect {{legendaryPokemon}}!"
+    },
+    "2": {
+      "label": "Stay hidden",
+      "tooltip": "Leave without getting involved",
+      "selected": "You stay out of sight and slip away."
+    }
+  },
+  "outro": {
+    "success": "{{legendaryPokemon}} steadies itself and nods gratefully. It leaves something behind before flying away.",
+    "failed": "The poachers are driven off, but {{legendaryPokemon}} had to be rushed to the pokemon center."
+  }
+}
