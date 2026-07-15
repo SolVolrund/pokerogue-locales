@@ -284,6 +284,10 @@
     "DNA_SPLICERS": { "name": "DNA Splicers" },
 
     "MINI_BLACK_HOLE": { "name": "Mini Black Hole" },
+    "EON_FLUTE": {
+      "name": "Eon Flute",
+      "description": "Calls in backup when you would otherwise fail"
+    },
     "GRAND_LAUREL": {
       "name": "Grand Laurel",
       "description": "Boosts each party Pokémon's HP, Attack, Defense, Sp. Atk, and Sp. Def based on its contest conditions."

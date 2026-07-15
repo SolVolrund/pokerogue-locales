@@ -17,6 +17,6 @@
   },
   "outro": {
     "success": "{{legendaryPokemon}} steadies itself and nods gratefully. It leaves something behind before flying away.",
-    "failed": "The poachers are driven off, but {{legendaryPokemon}} had to be rushed to the pokemon center."
+    "failed": "The poachers manage to capture {{legendaryPokemon}} and make a clean getaway."
   }
 }
