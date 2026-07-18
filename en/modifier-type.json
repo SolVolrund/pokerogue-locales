@@ -238,6 +238,7 @@
     "GRIP_CLAW": { "name": "Grip Claw" },
     "WIDE_LENS": { "name": "Wide Lens" },
     "LOADED_DICE": { "name": "Loaded Dice", "description": "Makes moves that normally hit 2 to 5 times hit at least 4 times." },
+    "UNOWN_BOX": { "name": "Unown Box", "description": "Allows Unown to find Unown tiles after battles." },
 
     "MULTI_LENS": { "name": "Multi Lens" },
 
@@ -287,6 +288,10 @@
     "EON_FLUTE": {
       "name": "Eon Flute",
       "description": "Calls in backup when you would otherwise fail"
+    },
+    "GLASS_BALL": {
+      "name": "Glass Ball",
+      "description": "Calls in a mysterious backup helper when you would otherwise fail."
     },
     "GRAND_LAUREL": {
       "name": "Grand Laurel",
