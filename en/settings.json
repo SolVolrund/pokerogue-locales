@@ -23,6 +23,7 @@
   "ask": "Ask",
   "battleStyle": "Battle Style",
   "plannerAiEnable": "Planner AI Enable",
+  "twoPlayerInputLockout": "Multiplayer Input Lockout",
   "enableRetries": "Enable Retries",
   "hideIvs": "Hide IV scanner",
   "hideMoveSkipConfirm": "Level Move Confirmation",
