@@ -577,6 +577,11 @@
     "DRAGON_MEMORY": "Dragon Memory",
     "DARK_MEMORY": "Dark Memory",
     "FAIRY_MEMORY": "Fairy Memory",
-    "NORMAL_MEMORY": "Normal Memory"
+    "NORMAL_MEMORY": "Normal Memory",
+    "COSPLAY_RED_SCARF": "Red Scarf",
+    "COSPLAY_BLUE_SCARF": "Blue Scarf",
+    "COSPLAY_PINK_SCARF": "Pink Scarf",
+    "COSPLAY_GREEN_SCARF": "Green Scarf",
+    "COSPLAY_YELLOW_SCARF": "Yellow Scarf"
   }
 }
