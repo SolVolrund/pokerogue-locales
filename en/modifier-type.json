@@ -582,6 +582,11 @@
     "COSPLAY_BLUE_SCARF": "Blue Scarf",
     "COSPLAY_PINK_SCARF": "Pink Scarf",
     "COSPLAY_GREEN_SCARF": "Green Scarf",
-    "COSPLAY_YELLOW_SCARF": "Yellow Scarf"
+    "COSPLAY_YELLOW_SCARF": "Yellow Scarf",
+    "ROTOM_OVEN": "Rotom Oven",
+    "ROTOM_WASHER": "Rotom Washer",
+    "ROTOM_FRIDGE": "Rotom Fridge",
+    "ROTOM_FAN": "Rotom Fan",
+    "ROTOM_MOWER": "Rotom Mower"
   }
 }

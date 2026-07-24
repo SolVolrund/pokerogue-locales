@@ -1,0 +1,27 @@
+{
+  "title": "Deja Vu",
+  "description": "A familiar pressure hangs in the air, the weight of countless failures sit heavy upon your shoulders.",
+  "query": "What will you do?",
+  "intro": "A cold white hand grasps your shoulder.",
+  "battleStart": "Prepare for Judgement.",
+  "rewardPrompt": "Player {{player}}, choose one Pokemon to bring back.",
+  "rewardHover": "{{pokemonName}} Lv.{{level}}.{{heldItemLine}}",
+  "skipReward": "Player {{player}} puts the past to rest.",
+  "obtainedPokemon": "{{pokemonName}} seems relieved to see you again",
+  "outro": "The cold fades away, leaving only the road ahead.",
+  "reward": {
+    "skip": "Let It Fade"
+  },
+  "option": {
+    "1": {
+      "label": "[SAVE]",
+      "tooltip": ".",
+      "selected": "Player {{player}} turns to face their past. A set of familiar, hollow eyes stares back."
+    },
+    "2": {
+      "label": "[PROCEED]",
+      "tooltip": ".",
+      "selected": "{{player}} refuses to dwell on the past."
+    }
+  }
+}
