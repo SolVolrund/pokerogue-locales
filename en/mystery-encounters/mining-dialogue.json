@@ -1,0 +1,23 @@
+{
+  "intro": "A brittle wall glitters with buried treasure. A few careful strikes might bring something useful loose.",
+  "title": "Mining Outcrop",
+  "description": "A rocky outcrop is packed with old treasures. Dig carefully before the wall loses stability and collapses.",
+  "query": "Try mining?",
+  "participationVote": {
+    "query": "Mine into the wall?",
+    "mineSelected": "{{playerName}} takes up the mining tools.",
+    "leaveSelected": "{{playerName}} steps away from the wall."
+  },
+  "option": {
+    "1": {
+      "label": "Start Mining",
+      "tooltip": "(+) Play the mining minigame",
+      "selected": "You take up the tools and search the wall for anything valuable."
+    },
+    "2": {
+      "label": "Leave",
+      "tooltip": "(-) Skip this event",
+      "selected": "You decide not to risk collapsing the wall."
+    }
+  }
+}

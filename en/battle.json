@@ -137,5 +137,8 @@
   "beatModeFirstTime": "{{speciesName}} beat {{gameMode}} Mode for the first time!\nYou received {{newModifier}}!",
   "ppReduced": "It reduced the PP of {{targetName}}’s\n{{moveName}} by {{reduction}}!",
   "mysteryEncounterAppeared": "What’s this?",
-  "pokemonTerastallized": "{{pokemonNameWithAffix}} Terastallized into the {{type}} type!"
+  "pokemonTerastallized": "{{pokemonNameWithAffix}} Terastallized into the {{type}} type!",
+  "pokemonSurroundedByZPower": "{{pokemonNameWithAffix}} surrounded itself with Z-Power!",
+  "noUsableZMove": "It can't use a Z-Move!",
+  "zRingRecharging": "The Z-Ring needs {{waves}} more waves to recharge!"
 }

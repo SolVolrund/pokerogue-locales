@@ -63,6 +63,9 @@
     "AttackTypeBoosterModifierType": {
       "description": "Increases the power of a Pokémon’s {{moveType}}-type moves by 20%."
     },
+    "TypeGemModifierType": {
+      "description": "Boosts the holder's next damaging {{moveType}}-type move by {{boostPercent}}%, then is consumed."
+    },
     "PokemonLevelIncrementModifierType": {
       "description": "Increases a Pokémon’s level by {{levels}}."
     },
@@ -145,6 +148,151 @@
     "MEGA_BRACELET": { "name": "Mega Bracelet", "description": "Mega Stones become available." },
     "DYNAMAX_BAND": { "name": "Dynamax Band", "description": "Max Mushrooms become available." },
     "TERA_ORB": { "name": "Tera Orb", "description": "Allows your Pokémon to Terastallize. Recharges slowly. Tera Shards also become available." },
+
+    "Z_RING": {
+      "name": "Z-Ring",
+      "description": "Allows Pokemon holding a Z-Crystal to use a Z-Move. The Z-Ring recharges every 15 waves. Z-Crystals also become available."
+    },
+    "ALORAICHIUM_Z": {
+      "name": "Aloraichium Z",
+      "description": "Allows the holder to use a compatible Z-Move when you have a Z-Ring."
+    },
+    "BUGINIUM_Z": {
+      "name": "Buginium Z",
+      "description": "Allows the holder to upgrade a compatible Bug-type move into a Z-Move."
+    },
+    "DARKINIUM_Z": {
+      "name": "Darkinium Z",
+      "description": "Allows the holder to upgrade a compatible Dark-type move into a Z-Move."
+    },
+    "DECIDIUM_Z": {
+      "name": "Decidium Z",
+      "description": "Allows Decidueye to upgrade Spirit Shackle into Sinister Arrow Raid."
+    },
+    "DRAGONIUM_Z": {
+      "name": "Dragonium Z",
+      "description": "Allows the holder to upgrade a compatible Dragon-type move into a Z-Move."
+    },
+    "EEVIUM_Z": {
+      "name": "Eevium Z",
+      "description": "Allows Eevee to upgrade Last Resort into Extreme Evoboost."
+    },
+    "ELECTRIUM_Z": {
+      "name": "Electrium Z",
+      "description": "Allows the holder to upgrade a compatible Electric-type move into a Z-Move."
+    },
+    "FAIRIUM_Z": {
+      "name": "Fairium Z",
+      "description": "Allows the holder to upgrade a compatible Fairy-type move into a Z-Move."
+    },
+    "FIGHTINIUM_Z": {
+      "name": "Fightinium Z",
+      "description": "Allows the holder to upgrade a compatible Fighting-type move into a Z-Move."
+    },
+    "FIRIUM_Z": {
+      "name": "Firium Z",
+      "description": "Allows the holder to upgrade a compatible Fire-type move into a Z-Move."
+    },
+    "FLYINIUM_Z": {
+      "name": "Flyinium Z",
+      "description": "Allows the holder to upgrade a compatible Flying-type move into a Z-Move."
+    },
+    "GHOSTIUM_Z": {
+      "name": "Ghostium Z",
+      "description": "Allows the holder to upgrade a compatible Ghost-type move into a Z-Move."
+    },
+    "GRASSIUM_Z": {
+      "name": "Grassium Z",
+      "description": "Allows the holder to upgrade a compatible Grass-type move into a Z-Move."
+    },
+    "GROUNDIUM_Z": {
+      "name": "Groundium Z",
+      "description": "Allows the holder to upgrade a compatible Ground-type move into a Z-Move."
+    },
+    "ICIUM_Z": {
+      "name": "Icium Z",
+      "description": "Allows the holder to upgrade a compatible Ice-type move into a Z-Move."
+    },
+    "INCINIUM_Z": {
+      "name": "Incinium Z",
+      "description": "Allows Incineroar to upgrade Darkest Lariat into Malicious Moonsault."
+    },
+    "KOMMONIUM_Z": {
+      "name": "Kommonium Z",
+      "description": "Allows Kommo-o to upgrade Clanging Scales into Clangorous Soulblaze."
+    },
+    "LUNALIUM_Z": {
+      "name": "Lunalium Z",
+      "description": "Allows Lunala or Necrozma to upgrade Moongeist Beam into Menacing Moonraze Maelstrom."
+    },
+    "LYCANIUM_Z": {
+      "name": "Lycanium Z",
+      "description": "Allows Lycanroc to upgrade Stone Edge into Splintered Stormshards."
+    },
+    "MARSHADIUM_Z": {
+      "name": "Marshadium Z",
+      "description": "Allows Marshadow to upgrade Spectral Thief into Soul-Stealing 7-Star Strike."
+    },
+    "MEWNIUM_Z": {
+      "name": "Mewnium Z",
+      "description": "Allows Mew to upgrade Psychic into Genesis Supernova."
+    },
+    "MIMIKIUM_Z": {
+      "name": "Mimikium Z",
+      "description": "Allows Mimikyu to upgrade Play Rough into Let's Snuggle Forever."
+    },
+    "NORMALIUM_Z": {
+      "name": "Normalium Z",
+      "description": "Allows the holder to upgrade a compatible Normal-type move into a Z-Move."
+    },
+    "PIKANIUM_Z": {
+      "name": "Pikanium Z",
+      "description": "Allows Pikachu to upgrade Volt Tackle into Catastropika."
+    },
+    "PIKASHUNIUM_Z": {
+      "name": "Pikashunium Z",
+      "description": "Allows Pikachu in a cap to upgrade Thunderbolt into 10,000,000 Volt Thunderbolt."
+    },
+    "POISONIUM_Z": {
+      "name": "Poisonium Z",
+      "description": "Allows the holder to upgrade a compatible Poison-type move into a Z-Move."
+    },
+    "PRIMARIUM_Z": {
+      "name": "Primarium Z",
+      "description": "Allows Primarina to upgrade Sparkling Aria into Oceanic Operetta."
+    },
+    "PSYCHIUM_Z": {
+      "name": "Psychium Z",
+      "description": "Allows the holder to upgrade a compatible Psychic-type move into a Z-Move."
+    },
+    "ROCKIUM_Z": {
+      "name": "Rockium Z",
+      "description": "Allows the holder to upgrade a compatible Rock-type move into a Z-Move."
+    },
+    "SNORLIUM_Z": {
+      "name": "Snorlium Z",
+      "description": "Allows Snorlax to upgrade Giga Impact into Pulverizing Pancake."
+    },
+    "SOLGANIUM_Z": {
+      "name": "Solganium Z",
+      "description": "Allows Solgaleo or Necrozma to upgrade Sunsteel Strike into Searing Sunraze Smash."
+    },
+    "STEELIUM_Z": {
+      "name": "Steelium Z",
+      "description": "Allows the holder to upgrade a compatible Steel-type move into a Z-Move."
+    },
+    "TAPUNIUM_Z": {
+      "name": "Tapunium Z",
+      "description": "Allows a guardian deity to upgrade Nature's Madness into Guardian of Alola."
+    },
+    "ULTRANECROZIUM_Z": {
+      "name": "Ultranecrozium Z",
+      "description": "Allows Necrozma to upgrade Photon Geyser into Light That Burns the Sky."
+    },
+    "WATERIUM_Z": {
+      "name": "Waterium Z",
+      "description": "Allows the holder to upgrade a compatible Water-type move into a Z-Move."
+    },
 
     "MAP": { "name": "Map", "description": "Allows you to choose your destination at a crossroads." },
 
@@ -357,6 +505,26 @@
     "black_glasses": "Black Glasses",
     "fairy_feather": "Fairy Feather"
   },
+  "TypeGemItem": {
+    "normal_gem": "Normal Gem",
+    "fighting_gem": "Fighting Gem",
+    "flying_gem": "Flying Gem",
+    "poison_gem": "Poison Gem",
+    "ground_gem": "Ground Gem",
+    "rock_gem": "Rock Gem",
+    "bug_gem": "Bug Gem",
+    "ghost_gem": "Ghost Gem",
+    "steel_gem": "Steel Gem",
+    "fire_gem": "Fire Gem",
+    "water_gem": "Water Gem",
+    "grass_gem": "Grass Gem",
+    "electric_gem": "Electric Gem",
+    "psychic_gem": "Psychic Gem",
+    "ice_gem": "Ice Gem",
+    "dragon_gem": "Dragon Gem",
+    "dark_gem": "Dark Gem",
+    "fairy_gem": "Fairy Gem"
+  },
   "BaseStatBoosterItem": {
     "hp_up": "HP Up",
     "protein": "Protein",
@@ -539,7 +707,6 @@
     "BURN_DRIVE": "Burn Drive",
     "CHILL_DRIVE": "Chill Drive",
     "DOUSE_DRIVE": "Douse Drive",
-    "ULTRANECROZIUM_Z": "Ultranecrozium Z",
 
     "FIST_PLATE": "Fist Plate",
     "SKY_PLATE": "Sky Plate",
