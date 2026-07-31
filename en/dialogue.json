@@ -3455,6 +3455,17 @@
       "1": "Wowzers, what a battle!$Time for you to train even harder."
     }
   },
+  "mollyHale": {
+    "encounter": {
+      "1": "I don't know why they think they need my help. But okay!\nIt's my turn to save the world, so I can't lose!"
+    },
+    "victory": {
+      "1": "W-what? that shouldnt even be possible! I was cheating, so that must mean you were cheating harder!"
+    },
+    "defeat": {
+      "1": "Never send a grown up to do a kids job."
+    }
+  },
   "rival": {
     "encounter": {
       "1": "@c{smile}Hey, I was looking for you! I knew you were eager to get going but I expected at least a goodbye…$@c{smile_eclosed}So you’re really pursuing your dream after all? I almost can’t believe it.$@c{serious_smile_fists}Since we’re here, how about a battle?\nAfter all, I want to make sure you’re ready.$@c{serious_mopen_fists}Don’t hold back, I want you to give me everything you’ve got!"
