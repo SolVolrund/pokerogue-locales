@@ -410,6 +410,8 @@
 
     "MYSTICAL_ROCK": { "name": "Mystical Rock", "description": "Extends the duration of terrain and weather caused by the holder’s moves or Abilities by 2 turns." },
     "STICKY_BARBS": { "name": "Sticky Barb", "description": "Damages the holder every turn. If the holder is hit by a contact move, damages the attacker and moves to them." },
+    "LAGGING_TAIL": { "name": "Lagging Tail", "description": "Lowers the holder's move priority by 1." },
+    "IRON_BALL": { "name": "Iron Ball", "description": "Grounds the holder, removing Flying and Levitate immunity to Ground-type attacks." },
 
     "LIGHT_CLAY": { "name": "Light Clay", "description": "Extends the duration of Light Screen, Reflect, and Aurora Veil caused by the holder's moves by 2 turns." },
     "MIRROR_HERB": { "name": "Mirror Herb", "description": "Copies an opponent's stat increases once, then is consumed." },
