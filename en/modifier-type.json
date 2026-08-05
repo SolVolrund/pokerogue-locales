@@ -394,6 +394,7 @@
     "CANDY_JAR": { "name": "Candy Jar", "description": "Increases the number of levels added by Rare Candy items by 1." },
 
     "BERRY_POUCH": { "name": "Berry Pouch", "description": "Adds a 30% chance that a used berry will not be consumed." },
+    "BERRY_POT": { "name": "Berry Pot", "description": "Produces berries for a Pokemon with Symbiosis. More stacks grow berries faster." },
 
     "FOCUS_BAND": { "name": "Focus Band", "description": "Adds a 10% chance to survive with 1 HP after being damaged enough to faint." },
 
@@ -408,6 +409,8 @@
     "FLAME_ORB": { "name": "Flame Orb", "description": "It’s a bizarre orb that gives off heat when touched and will affect the holder with a burn during battle." },
 
     "MYSTICAL_ROCK": { "name": "Mystical Rock", "description": "Extends the duration of terrain and weather caused by the holder’s moves or Abilities by 2 turns." },
+    "STICKY_BARBS": { "name": "Sticky Barb", "description": "Damages the holder every turn. If the holder is hit by a contact move, damages the attacker and moves to them." },
+
     "LIGHT_CLAY": { "name": "Light Clay", "description": "Extends the duration of Light Screen, Reflect, and Aurora Veil caused by the holder's moves by 2 turns." },
     "MIRROR_HERB": { "name": "Mirror Herb", "description": "Copies an opponent's stat increases once, then is consumed." },
 
