@@ -42,5 +42,77 @@
   "leppa": {
     "name": "Leppa Berry",
     "effect": "Restores 10 PP to a move if its PP reaches 0."
+  },
+  "occa": {
+    "name": "Occa Berry",
+    "effect": "Halves damage taken from a Fire-type attack."
+  },
+  "passho": {
+    "name": "Passho Berry",
+    "effect": "Halves damage taken from a Water-type attack."
+  },
+  "wacan": {
+    "name": "Wacan Berry",
+    "effect": "Halves damage taken from an Electric-type attack."
+  },
+  "rindo": {
+    "name": "Rindo Berry",
+    "effect": "Halves damage taken from a Grass-type attack."
+  },
+  "yache": {
+    "name": "Yache Berry",
+    "effect": "Halves damage taken from an Ice-type attack."
+  },
+  "chople": {
+    "name": "Chople Berry",
+    "effect": "Halves damage taken from a Fighting-type attack."
+  },
+  "kebia": {
+    "name": "Kebia Berry",
+    "effect": "Halves damage taken from a Poison-type attack."
+  },
+  "shuca": {
+    "name": "Shuca Berry",
+    "effect": "Halves damage taken from a Ground-type attack."
+  },
+  "coba": {
+    "name": "Coba Berry",
+    "effect": "Halves damage taken from a Flying-type attack."
+  },
+  "payapa": {
+    "name": "Payapa Berry",
+    "effect": "Halves damage taken from a Psychic-type attack."
+  },
+  "tanga": {
+    "name": "Tanga Berry",
+    "effect": "Halves damage taken from a Bug-type attack."
+  },
+  "charti": {
+    "name": "Charti Berry",
+    "effect": "Halves damage taken from a Rock-type attack."
+  },
+  "kasib": {
+    "name": "Kasib Berry",
+    "effect": "Halves damage taken from a Ghost-type attack."
+  },
+  "haban": {
+    "name": "Haban Berry",
+    "effect": "Halves damage taken from a Dragon-type attack."
+  },
+  "colbur": {
+    "name": "Colbur Berry",
+    "effect": "Halves damage taken from a Dark-type attack."
+  },
+  "babiri": {
+    "name": "Babiri Berry",
+    "effect": "Halves damage taken from a Steel-type attack."
+  },
+  "chilan": {
+    "name": "Chilan Berry",
+    "effect": "Halves damage taken from a Normal-type attack."
+  },
+  "roseli": {
+    "name": "Roseli Berry",
+    "effect": "Halves damage taken from a Fairy-type attack."
   }
 }
