@@ -1,0 +1,23 @@
+{
+  "intro": "Three familiar trainers have set up a pop-up kitchen beside the road.",
+  "introDialogue": "A good meal needs balance, timing, and a little fire.$The brothers size up your team and offer a friendly training battle.",
+  "title": "Chefs on Vacation",
+  "speaker": "Brothers",
+  "description": "Three gym leaders out on vacation.\nDefeat them and they will teach one of your Pokémon a Pledge move.",
+  "query": "Will you challenge the brothers?",
+  "option": {
+    "1": {
+      "label": "Challenge them",
+      "tooltip": "(-) Trainer battle\n(+) Teach any Pokémon a Pledge move",
+      "selected": "You accept the brothers' challenge!"
+    },
+    "2": {
+      "label": "Pass",
+      "tooltip": "Leave without battling",
+      "selected": "You pass on the battle and let the brothers return to their vacation."
+    }
+  },
+  "battleWon": "A splendid battle, and an even better lesson!$Choose a Pledge move, and we will teach it to one of your Pokémon.",
+  "teachMovePrompt": "Select a Pledge move to teach a Pokémon.",
+  "outro": "The brothers pack up their kitchen and continue down the road."
+}
