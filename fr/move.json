@@ -89,7 +89,7 @@
   },
   "stomp": {
     "name": "Écrasement",
-    "effect": "Écrase la cible avec un énorme pied. A 30 % de chances de l’apeurer. Si la cible a utilisé Lilliput, l'attaque inflige le double de dégâts et touche à coup sûr."
+    "effect": "Écrase la cible avec un énorme pied. A 30 % de chances de l’apeurer. Si l'adversaire est lilliputien, la capacité n’échoue jamais et sa puissance est multipliée par 2."
   },
   "doubleKick": {
     "name": "Double Pied",
@@ -133,7 +133,7 @@
   },
   "bodySlam": {
     "name": "Plaquage",
-    "effect": "Le lanceur se laisse tomber sur la cible de tout son poids. A 30 % de chances de paralyser la cible. Si ce dernier est lilliputien, la capacité n’échoue jamais et sa puissance est multipliée par 2."
+    "effect": "Le lanceur se laisse tomber sur la cible de tout son poids. A 30 % de chances de paralyser la cible. Si l'adversaire est lilliputien, la capacité n’échoue jamais et sa puissance est multipliée par 2."
   },
   "wrap": {
     "name": "Ligotage",
@@ -345,7 +345,7 @@
   },
   "thunder": {
     "name": "Fatal-Foudre",
-    "effect": "La foudre tombe sur la cible pour lui infliger des dégâts. A 30 % de chances de la paralyser. Frappe aussi si elle est en Vol, Rebond ou Chute Libre."
+    "effect": "La foudre tombe sur la cible pour lui infliger des dégâts. A 30 % de chances de la paralyser. Frappe aussi si elle est en Vol, Rebond ou Chute Libre. N'échoue jamais quand il pleut."
   },
   "rockThrow": {
     "name": "Jet-Pierres",
@@ -761,7 +761,7 @@
   },
   "spikes": {
     "name": "Picots",
-    "effect": "Les Pokémon entrant sur le terrain subissent des dégâts équivalents à 1/8 de leurs PV max, et plus si 2 ou 3 effets de Picots sont actifs en même temps. Cela n’affecte pas les Pokémon de type Vol ou dotés du talent Lévitation, entre autres."
+    "effect": "Le lanceur disperse des picots sur le sol pour blesser tout ennemi qui entre au combat. Les Pokémon entrant sur le terrain subissent des dégâts équivalents à 1/8 de leurs PV max, et plus si 2 ou 3 effets de Picots sont actifs en même temps. Cela n’affecte pas les Pokémon de type Vol ou dotés du talent Lévitation, entre autres."
   },
   "zapCannon": {
     "name": "Élecanon",
@@ -901,7 +901,7 @@
   },
   "batonPass": {
     "name": "Relais",
-    "effect": "Le lanceur échange sa place et tout changement de stats avec un Pokémon de l’équipe. Tout changement de stat, clone et autres sont transmis à ce Pokémon."
+    "effect": "Le lanceur échange sa place avec un autre Pokémon de l’équipe. Tout changement de stat, clone et autres sont transmis à ce Pokémon."
   },
   "encore": {
     "name": "Encore",
@@ -1625,7 +1625,7 @@
   },
   "dragonRush": {
     "name": "Draco-Charge",
-    "effect": "Le lanceur frappe la cible en prenant un air menaçant. A 20 % de chances de l’apeurer. Si ce dernier est lilliputien, la capacité n’échoue jamais et sa puissance est multipliée par 2."
+    "effect": "Le lanceur frappe la cible en prenant un air menaçant. A 20 % de chances de l’apeurer. Si l'adversaire est lilliputien, la capacité n’échoue jamais et sa puissance est multipliée par 2."
   },
   "powerGem": {
     "name": "Rayon Gemme",
@@ -2165,7 +2165,7 @@
   },
   "hurricane": {
     "name": "Vent Violent",
-    "effect": "Le lanceur déclenche une tempête de vents violents qui s’abat sur la cible. A 10 % de chances de la rendre confuse et 30 % de chances de la paralyser. Frappe aussi si elle est en Vol, Rebond ou Chute Libre. N’échoue jamais quand il pleut."
+    "effect": "Le lanceur déclenche une tempête de vents violents qui s’abat sur la cible. A 30 % de chances de la rendre confuse. Frappe aussi si elle est en Vol, Rebond ou Chute Libre. N’échoue jamais quand il pleut."
   },
   "headCharge": {
     "name": "Peignée",
@@ -3625,7 +3625,7 @@
   },
   "makeItRain": {
     "name": "Ruée d’Or",
-    "effect": "Le lanceur attaque en lançant de nombreuses pièces, ce qui baisse son Attaque Spéciale. Permet d’obtenir plus d’argent à la fin du combat."
+    "effect": "Le lanceur attaque en lançant de nombreuses pièces, ce qui baisse son Attaque Spéciale de 2 crans. Permet d'obtenir de l'argent si l'attaque touche une cible."
   },
   "psyblade": {
     "name": "Lame Psychique",
@@ -3685,7 +3685,7 @@
   },
   "rageFist": {
     "name": "Poing de Colère",
-    "effect": "Le lanceur transforme sa colère en énergie pour attaquer. Plus il a subi d’attaques, plus la puissance de cette capacité augmente. Sa puissant augmente de 50 jusqu’à 6 fois."
+    "effect": "Le lanceur transforme sa colère en énergie pour attaquer. La puissance de cette capacité augmente de 50 à chaque fois que le lanceur subit des dégâts causés par une capacité, jusqu'à un maximum de 350. Quand le lanceur revient dans son équipe, la puissance revient à la normale."
   },
   "armorCannon": {
     "name": "Canon Blindé",
