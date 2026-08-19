@@ -114,5 +114,25 @@
   "roseli": {
     "name": "Roseli Berry",
     "effect": "Halves damage taken from a Fairy-type attack."
+  },
+  "rowap": {
+    "name": "Rowap Berry",
+    "effect": "Damages an attacker that hits the holder with a special move."
+  },
+  "kee": {
+    "name": "Kee Berry",
+    "effect": "Raises Defense when the holder is hit by a physical move."
+  },
+  "maranga": {
+    "name": "Maranga Berry",
+    "effect": "Raises Special Defense when the holder is hit by a special move."
+  },
+  "jaboca": {
+    "name": "Jaboca Berry",
+    "effect": "Damages an attacker that hits the holder with a physical move."
+  },
+  "custap": {
+    "name": "Custap Berry",
+    "effect": "Lets the holder move first in its priority bracket after its HP drops below 25%."
   }
 }
