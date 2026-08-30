@@ -386,6 +386,7 @@
     "GRIP_CLAW": { "name": "Grip Claw" },
     "WIDE_LENS": { "name": "Wide Lens" },
     "LOADED_DICE": { "name": "Loaded Dice", "description": "Makes moves that normally hit 2 to 5 times hit at least 4 times." },
+    "BOOSTER_ENERGY": { "name": "Booster Energy", "description": "Makes Blitzy Happy and activates Protosynthesis and Quark Drive without weather." },
     "UNOWN_BOX": { "name": "Unown Box", "description": "Allows Unown to find Unown tiles after battles." },
 
     "MULTI_LENS": { "name": "Multi Lens" },

@@ -24,6 +24,8 @@
   "contestMoveInfo": "Contest",
   "battleMoveInfo": "Battle",
   "manageNature": "Manage Nature",
+  "managePattern": "Pattern",
+  "selectPattern": "Select Spinda pattern.",
   "addToFavorites": "Add to Favorites",
   "removeFromFavorites": "Remove from Favorites",
   "useCandies": "Use Candies",

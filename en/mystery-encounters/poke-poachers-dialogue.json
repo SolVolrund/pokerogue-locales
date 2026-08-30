@@ -17,6 +17,7 @@
   },
   "outro": {
     "success": "{{legendaryPokemon}} steadies itself and nods gratefully. It leaves something behind before flying away.",
+    "successVs": "{{legendaryPokemon}} takes advantage of the opening and darts behind {{player}} for safety! It leaves something behind before flying away.",
     "failed": "The poachers manage to capture {{legendaryPokemon}} and make a clean getaway."
   }
 }
