@@ -8,6 +8,7 @@
   "manageData": "Manage Data",
   "community": "Community",
   "saveAndQuit": "Save and Quit",
+  "endRun": "End Run",
   "logOut": "Log Out",
   "slot": "Slot {{slotNumber}}",
   "importSession": "Import Session",
