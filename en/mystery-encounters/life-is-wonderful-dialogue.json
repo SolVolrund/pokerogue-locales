@@ -1,0 +1,32 @@
+{
+  "intro": "A strange fog rolls in over the hills. After wandering about, you spot a faint light.\nA kind-looking woman approaches as a presence watches from nearby.",
+  "speaker": "Nurse Joy",
+  "introDialogue": "Hello there, you seem a little lost.\nMaybe we could help you out?",
+  "title": "Life is Wonderful",
+  "description": "A strange fog rolls in over the hills. After wandering about, you spot a faint light.\n\nA kind-looking woman approaches and asks if you need help. You get the strange feeling someone else is watching from nearby. Despite appearances, you might just be in danger.",
+  "query": "What will you do?",
+  "option": {
+    "1": {
+      "label": "Heal my Pokemon?",
+      "tooltip": "(+) Fully heals all Pokemon",
+      "selected": "Nurse Joy offers a warm smile.\nYour Pokemon were fully restored."
+    },
+    "2": {
+      "label": "Get me out of here?",
+      "tooltip": "(?) Return to Town",
+      "selected": "The fog parts, revealing a familiar road back to Town."
+    },
+    "3": {
+      "label": "Let's have a battle!",
+      "tooltip": "(-) Hardest Battle\n(?) Battle Amber-Two for a rare item",
+      "selected": "The watching presence steps forward.\nAmber-Two wants to battle!"
+    },
+    "4": {
+      "label": "I could use another friend?",
+      "tooltip": "(?) Duplicates one Pokemon",
+      "selected": "Nurse Joy asks which Pokemon you would like to entrust to the fog.",
+      "obtained": "@s{level_up_fanfare}{{pokemonName}} returned from the fog with a twin!"
+    }
+  },
+  "outro": "The fog clears, leaving only the feeling that someone wished you well."
+}

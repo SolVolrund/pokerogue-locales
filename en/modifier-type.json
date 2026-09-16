@@ -2,7 +2,8 @@
   "ModifierType": {
     "AddPokeballModifierType": {
       "name": "{{modifierCount}}x {{pokeballName}}",
-      "description": "Receive {{pokeballName}} x{{modifierCount}} (Inventory: {{pokeballAmount}}) \nCatch Rate: {{catchRate}}"
+      "description": "Receive {{pokeballName}} x{{modifierCount}} (Inventory: {{pokeballAmount}}) \nCatch Rate: {{catchRate}}",
+      "cloneDescription": "Receive {{pokeballName}} x{{modifierCount}} (Inventory: {{pokeballAmount}}) \nClones one target Pokémon."
     },
     "AddVoucherModifierType": {
       "name": "{{modifierCount}}x {{voucherTypeName}}",
@@ -454,6 +455,10 @@
     "GAMMA_RAY_BURST": {
       "name": "Gamma Ray Burst",
       "description": "Destroys one of the holder's other eligible held items at the end of each turn to generate permanent stat boosts."
+    },
+    "BERSERK_GENE": {
+      "name": "Berserk Gene",
+      "description": "After choosing Fight, the holder makes an extra AI-chosen move that acts last."
     },
 
     "GOLDEN_POKEBALL": { "name": "Golden Poké Ball", "description": "Adds 1 extra item option at the end of every battle." },
