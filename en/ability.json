@@ -1262,5 +1262,9 @@
   "spicySpray": {
     "name": "Spicy Spray",
     "description": "When the Pokémon takes damage from a move, it burns the attacker."
+  },
+  "auraGuard": {
+    "name": "Aura Guard",
+    "description": "Reduces damage taken from contact moves by 50%."
   }
 }

@@ -1,0 +1,51 @@
+{
+  "intro": "A bright game counter hums with flashing lights. The attendant gives you a practiced smile, ushering you toward the tables.",
+  "title": "Game Corner",
+  "description": "A small game corner has opened for passing trainers. Test your luck, keep your nerve, and cash out before Voltorb ruins the run.",
+  "query": "Play a game?",
+  "option": {
+    "1": {
+      "label": "Voltorb Flip",
+      "tooltip": "(?) Reveal cards and cash out before your third Voltorb",
+      "selected": "You sit down at the Voltorb Flip table."
+    },
+    "2": {
+      "label": "Slot Machine",
+      "tooltip": "Coming soon",
+      "selected": "The slot machine is out of service for now."
+    },
+    "3": {
+      "label": "Stake-Out",
+      "tooltip": "(?) Requires an investigative move",
+      "selected": "You and {{option3PrimaryName}} case the game corner, eventually following a suspicious man to a secret elevator!"
+    },
+    "4": {
+      "label": "Leave",
+      "tooltip": "Skip this event",
+      "selected": "You step away from the game counter."
+    }
+  },
+  "stakeOutPlaceholder": "The trail is promising, but the hidden elevator is not ready yet.",
+  "voltorbFlip": {
+    "start": "The cards are shuffled and dealt face-down.",
+    "cashOut": "You end the game early and collect your nuggies.",
+    "firstVoltorb": "A Voltorb! The table sparks, but the game keeps going.",
+    "secondVoltorb": "Another Voltorb! One more mistake will end the game.",
+    "thirdVoltorb": "A third Voltorb explodes across the board! Your winnings are lost.",
+    "perfectClear": "You reveal every safe card and clear the board!",
+    "reward": "Trade your nuggies for prizes.",
+    "cashOutReward": "You trade {{nuggies}} nuggies for {{amount}} money."
+  },
+  "rewardCounter": {
+    "title": "Prize Counter",
+    "nuggies": "Nuggies: {{amount}}",
+    "sold": "SOLD",
+    "cashOut": "Cash Out",
+    "cashOutValue": "{{amount}}",
+    "cashOutDesc": "Trade your remaining nuggies for money and leave the counter.",
+    "prizeDesc": "{{description}}",
+    "notEnough": "You do not have enough nuggies for that prize.",
+    "purchased": "You received {{itemName}}. Nuggies remaining: {{nuggies}}.",
+    "cashOutComplete": "You trade {{nuggies}} nuggies for {{amount}} money."
+  }
+}

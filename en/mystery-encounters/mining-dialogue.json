@@ -1,5 +1,5 @@
 {
-  "intro": "A brittle wall glitters with buried treasure. A few careful strikes might bring something useful loose.",
+  "intro": "A tired worker is taking a break from digging for treasure. They offer to share their tools to let you have a crack at it.",
   "title": "Mining Outcrop",
   "description": "A rocky outcrop is packed with old treasures. Dig carefully before the wall loses stability and collapses.",
   "query": "Try mining?",
@@ -17,7 +17,7 @@
     "2": {
       "label": "Leave",
       "tooltip": "(-) Skip this event",
-      "selected": "You decide not to risk collapsing the wall."
+      "selected": "You decline the offer and continue on your way."
     }
   }
 }

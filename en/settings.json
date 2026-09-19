@@ -22,6 +22,7 @@
   "always": "Always",
   "ask": "Ask",
   "battleStyle": "Battle Style",
+  "aceMechanics": "Ace Mechanics",
   "plannerAiEnable": "Planner AI Enable",
   "twoPlayerInputLockout": "Multiplayer Input Lockout",
   "enableRetries": "Enable Retries",
