@@ -52,7 +52,7 @@
       "descriptionAll": "Raises all of one Pokemon's contest conditions by {{amount}}."
     },
     "DoubleBattleChanceBoosterModifierType": {
-      "description": "Quadruples the chance of an encounter being a double battle for up to {{battleCount}} battles."
+      "description": "Boosts double and triple battle odds for up to {{battleCount}} battles."
     },
     "TempStatStageBoosterModifierType": {
       "description": "Increases the {{stat}} of all party members by {{amount}} for up to 5 battles.",
@@ -456,6 +456,13 @@
       "name": "Gamma Ray Burst",
       "description": "Destroys one of the holder's other eligible held items at the end of each turn to generate permanent stat boosts."
     },
+    "STRANGE_HELMET": {
+      "description": "Allows Mewtwo to change into its Armored form."
+    },
+    "SILPH_SCOPE": {
+      "name": "Silph Scope",
+      "description": "The holder's Normal- and Fighting-type moves can hit Ghost types."
+    },
     "BERSERK_GENE": {
       "name": "Berserk Gene",
       "description": "After choosing Fight, the holder makes an extra AI-chosen move that acts last."
@@ -630,6 +637,7 @@
     "MEDICHAMITE": "Medichamite",
     "METAGROSSITE": "Metagrossite",
     "MEWTWONITE_X": "Mewtwonite X",
+    "STRANGE_HELMET": "Strange Helm",
     "MEWTWONITE_Y": "Mewtwonite Y",
     "PIDGEOTITE": "Pidgeotite",
     "PINSIRITE": "Pinsirite",

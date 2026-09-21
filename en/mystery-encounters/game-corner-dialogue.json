@@ -3,6 +3,11 @@
   "title": "Game Corner",
   "description": "A small game corner has opened for passing trainers. Test your luck, keep your nerve, and cash out before Voltorb ruins the run.",
   "query": "Play a game?",
+  "cpu": {
+    "earned": "{{player}} earned {{nuggies}} nuggies at Voltorb Flip!",
+    "purchased": "{{player}} exchanged nuggies for {{item}}.",
+    "cashOut": "{{player}} traded {{nuggies}} remaining nuggies for {{amount}} money."
+  },
   "option": {
     "1": {
       "label": "Voltorb Flip",
@@ -16,7 +21,9 @@
     },
     "3": {
       "label": "Stake-Out",
-      "tooltip": "(?) Requires an investigative move",
+      "tooltip": "{{option3Availability}}",
+      "available": "(?) Requires an investigative move\nOnce per run",
+      "visited": "The hidden elevator is no longer accessible.",
       "selected": "You and {{option3PrimaryName}} case the game corner, eventually following a suspicious man to a secret elevator!"
     },
     "4": {
@@ -25,7 +32,7 @@
       "selected": "You step away from the game counter."
     }
   },
-  "stakeOutPlaceholder": "The trail is promising, but the hidden elevator is not ready yet.",
+  "enterRocketHq": "With everyone's business finished, you take the hidden elevator down into Team Rocket HQ!",
   "voltorbFlip": {
     "start": "The cards are shuffled and dealt face-down.",
     "cashOut": "You end the game early and collect your nuggies.",
@@ -44,8 +51,12 @@
     "cashOutValue": "{{amount}}",
     "cashOutDesc": "Trade your remaining nuggies for money and leave the counter.",
     "prizeDesc": "{{description}}",
+    "shadowPrizeDesc": "A Shadow {{pokemonName}}. Randomly selected from Pokémon with starter cost {{minStarterCost}}-{{maxStarterCost}}. Starts at 0 friendship.",
+    "jackpotShadowPrizeDesc": "A unique Shadow Eevee with Bio-Instability. Changes form with its moves. Starts at 0 friendship.",
     "notEnough": "You do not have enough nuggies for that prize.",
     "purchased": "You received {{itemName}}. Nuggies remaining: {{nuggies}}.",
+    "pokemonPurchased": "{{pokemonName}} joined your team. Nuggies remaining: {{nuggies}}.",
+    "pokemonLeftBehind": "{{pokemonName}} was left behind.",
     "cashOutComplete": "You trade {{nuggies}} nuggies for {{amount}} money."
   }
 }

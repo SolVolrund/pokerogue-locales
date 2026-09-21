@@ -1266,5 +1266,9 @@
   "auraGuard": {
     "name": "Aura Guard",
     "description": "Reduces damage taken from contact moves by 50%."
+  },
+  "bioInstability": {
+    "name": "Bio-Instability",
+    "description": "Renders the Pokémon's genome exceptionally unstable. This pokemon cannot learn new moves."
   }
 }
