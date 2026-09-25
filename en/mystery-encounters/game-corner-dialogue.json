@@ -55,6 +55,9 @@
     "jackpotShadowPrizeDesc": "A unique Shadow Eevee with Bio-Instability. Changes form with its moves. Starts at 0 friendship.",
     "notEnough": "You do not have enough nuggies for that prize.",
     "purchased": "You received {{itemName}}. Nuggies remaining: {{nuggies}}.",
+    "purchased_named": "{{playerName}} received {{itemName}}. Nuggies remaining: {{nuggies}}.",
+    "pokemonPurchased_named": "{{pokemonName}} joined {{playerName}}'s team. Nuggies remaining: {{nuggies}}.",
+    "cashOutComplete_named": "{{playerName}} trades {{nuggies}} nuggies for {{amount}} money.",
     "pokemonPurchased": "{{pokemonName}} joined your team. Nuggies remaining: {{nuggies}}.",
     "pokemonLeftBehind": "{{pokemonName}} was left behind.",
     "cashOutComplete": "You trade {{nuggies}} nuggies for {{amount}} money."

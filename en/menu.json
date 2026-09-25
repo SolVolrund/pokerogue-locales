@@ -15,6 +15,7 @@
   "twoPlayer": "2P",
   "onePlayerOneComputer": "1P+1C",
   "playerTwoStarterPrompt": "Player 2, choose your starters.",
+  "namedStarterPrompt": "{{playerName}}, choose your starters.",
   "computerPartnerStarterPrompt": "Choose the computer partner's starters.",
   "twoPlayerFullMode": "Full Mode",
   "twoPlayerHalfMode": "3/3 Mode",
