@@ -3807,6 +3807,10 @@
     "name": "Malignant Chain",
     "effect": "The user pours toxins into the target by wrapping them in a toxic, corrosive chain. This move has a 50% chance of badly poisoning the target."
   },
+  "veeveeAnte": {
+    "name": "VeeVee-Ante",
+    "effect": "The user gambles on an Eevee signature move, favoring advantageous types. Bio Instability changes its form to match the result."
+  },
   "nihilLight": {
     "name": "Nihil Light",
     "effect": "The user attacks by unleashing a powerful light that defies all laws of nature, striking even Fairy types and ignoring any stat changes affecting its targets."

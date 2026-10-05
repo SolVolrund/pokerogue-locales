@@ -1,4 +1,6 @@
 {
+  "magicRoomOnAdd": "A bizarre area appeared!\nHeld items lost their effects!",
+  "magicRoomOnRemove": "Magic Room wore off!\nHeld items regained their effects!",
   "mistOnAdd": "Both sides became\nshrouded in mist!",
   "mistOnAddPlayer": "Your team became\nshrouded in mist!",
   "mistOnAddEnemy": "The opposing team became\nshrouded in mist!",

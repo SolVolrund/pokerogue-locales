@@ -1,4 +1,6 @@
 {
+  "embargoOnAdd": "{{pokemonNameWithAffix}} can no longer\nuse its held items!",
+  "embargoOnRemove": "{{pokemonNameWithAffix}} can use its\nheld items again!",
   "trappedDesc": "trapping",
   "flinchedDesc": "flinching",
   "confusedDesc": "confusion",
